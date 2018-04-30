@@ -223,13 +223,20 @@ const proyectos = [
 	{
 		titulo:'La Vaca Calidosa',
 		lenguaje:'Angular/Bootstrap',
-		filtro:'programacion diseno',
+		filtro:'programacion',
 		url:'https://www.alpina.com.co/lavacacalidosa/',
 		img:'images/proyectos/vacaCalidosa.jpg'
 	}
 ];
 
 const estudios = [
+	{
+		instituto:'Antonio Herrán Zaldua',
+		titulo:'Primaria',
+		fecha:'-',
+		ciudad:'Honda Tolima',
+		descripcion:'En mi colegio me enseñaron aparte de las asignaturas ya conocidas  a trabajar en Metalistería y Electricidad.'
+	},
 	{
 		instituto:'Antonio Herrán Zaldua',
 		titulo:'Bachiller Técnico',
@@ -239,7 +246,7 @@ const estudios = [
 	},
 	{
 		instituto:'Cedinpro',
-		titulo:'Técnico Desarrollo de Software y Redes',
+		titulo:'Técnico Profesional en Desarrollo de Software y Redes',
 		fecha:'2005 - 2007',
 		ciudad:'Bogotá',
 		descripcion:'Inicié mi carrera como programador, en esta institución aprendí las asignaturas que hoy en día puedo desempeñaren mi trabajo.'
@@ -281,9 +288,7 @@ const habilidadesPrim = [
 ];
 
 const habilidadesSec = [
-	{
-		titulo:'Mysql'
-	},
+	
 	{
 		titulo:'HTML 5'
 	},
