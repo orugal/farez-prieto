@@ -1,5 +1,14 @@
 const experiencia = [
 	{
+		empresa:'Wannabe.com.co',
+		cargo:'Director General',
+		jefe:'Independiente',
+		fechaIni:'16 Junio de 2016',
+		fechaFin:'Actualmente',
+		ciudad:'Bogotá',
+		descripcion:'Actualmente trabajo como programador independiente, freelance, creando mi propio proyecto.'
+	},
+	{
 		empresa:'It Soluciones',
 		cargo:'Director de proyectos',
 		jefe:'Elkin Dussan',
