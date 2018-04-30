@@ -24,7 +24,7 @@ const experiencia = [
 		fechaIni:'20 Jun 2011',
 		fechaFin:'30 Oct 2015',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Diseño, Desarrollo de la intranet y el sistema de ayudaventas, aplicación móvil.'
 	},
 	{
 		empresa:'Paxzu Colombia',
@@ -33,7 +33,7 @@ const experiencia = [
 		fechaIni:'15 Feb 2010',
 		fechaFin:'17 Jun 2011',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Programación de páginas web php, creación de un CMS para la administración de contenidos de esta empresa.'
 	},
 	{
 		empresa:'Micrositios LTDA',
@@ -42,7 +42,7 @@ const experiencia = [
 		fechaIni:'21 Abr 2008',
 		fechaFin:'30 Dic 2009',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Desarrollo de páginas web y maquetación de manera nativa.'
 	},
 	{
 		empresa:'Fundación Norte Sur',
@@ -51,7 +51,7 @@ const experiencia = [
 		fechaIni:'2 Ene 2008',
 		fechaFin:'21 Abr 2008',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Diseño y desarrollo página web, Webmaster, Mantenimiento de equipos de computo.'
 	},
 	{
 		empresa:'La Pared Galería',
@@ -60,7 +60,7 @@ const experiencia = [
 		fechaIni:'4 Sep 2007',
 		fechaFin:'2 Nov 2007',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Webmaster.'
 	},
 	{
 		empresa:'TVO Conectado',
@@ -69,7 +69,7 @@ const experiencia = [
 		fechaIni:'3 Ene 2007',
 		fechaFin:'29 Jun 2007',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Operador de red de internet en el hotel Hacienda Royal, encuestas de servicio al cliente.'
 	},
 	{
 		empresa:'Datecsa SA',
@@ -78,7 +78,7 @@ const experiencia = [
 		fechaIni:'24 Ago 2006',
 		fechaFin:'20 Dic 2006',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Auxiliar de soporte técnico, creación y asignación de ordenes de servicio, manejo de cliente vía telefónica, encuestas de satisfacción.'
 	},
 	{
 		empresa:'Universidad los Libertadores',
@@ -87,7 +87,7 @@ const experiencia = [
 		fechaIni:'22 Ago 2005',
 		fechaFin:'22 Ago 2006',
 		ciudad:'Bogotá',
-		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
+		descripcion:'Auxiliar de soporte técnico, monitor salas de sistemas de la universidad.'
 	}
 ];
 
