@@ -133,7 +133,7 @@ const proyectos = [
 		titulo:'Cerebroom',
 		lenguaje:'Php/Bootstrap/Mysql/App Encuestas',
 		filtro:'programacion',
-		url:'http://www.cerebroom.com.co/2018',
+		url:'http://www.cerebroom.com.co/',
 		img:'images/proyectos/cerebroom.png'
 	},
 	{
