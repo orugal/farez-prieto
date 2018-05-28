@@ -126,7 +126,7 @@ const proyectos = [
 		titulo:'Hospitécnica',
 		lenguaje:'Php/Bootstrap/Mysql/Ecommerce',
 		filtro:'programacion',
-		url:'http://www.hospitecnica.com.co/2018',
+		url:'http://www.hospitecnica.com.co/',
 		img:'images/proyectos/hospitecnica.png'
 	},
 	{
