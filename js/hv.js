@@ -102,6 +102,12 @@ const testimonios = [
 const proyectos = [
 
 	{
+		titulo:'Comunidad Cristiana Bíblica Misionera',
+		lenguaje:'Diseño/Imagen corporativa',
+		filtro:'marca',
+		url:'http://wannabe.com.co/comunidad-cristianabiblica-misionera',
+		img:'images/proyectos/comunidad-cristiana-biblica-misioera.jpg'
+	},{
 		titulo:'Esmeralda Quality Fruit',
 		lenguaje:'Php/Mysql/Bootstrap/Fotografía/Vídeo',
 		filtro:'programacion diseno marca',
@@ -145,7 +151,7 @@ const proyectos = [
 	},
 	{
 		titulo:'MEG & Asociados',
-		lenguaje:'Php/Bootstrap/Mysql/App Citas',
+		lenguaje:'Php/Bootstrap/Mysql/Diseño',
 		filtro:'programacion diseno marca',
 		url:'http://www.wannabe.com.co/maria-eugenia-gomez-',
 		img:'images/proyectos/meg.png'
