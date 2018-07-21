@@ -13,7 +13,7 @@ const experiencia = [
 		cargo:'Director de proyectos',
 		jefe:'Elkin Dussan',
 		fechaIni:'1 Nov 2015',
-		fechaFin:'15 de Junio 2016',
+		fechaFin:'15 de Junio 2017',
 		ciudad:'Bogotá',
 		descripcion:'Diseño de páginas y aplicaciones móviles, dirección y coordinación de los proyectos.'
 	},
@@ -321,6 +321,12 @@ const habilidadesSec = [
 	},
 	{
 		titulo:'Codeigniter'
+	},
+	{
+		titulo:'Laravel'
+	},
+	{
+		titulo:'Slim Framework'
 	},
 	{
 		titulo:'Ionic'
