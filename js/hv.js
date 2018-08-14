@@ -1,10 +1,19 @@
 const experiencia = [
 	{
+		empresa:'Seoluciones Digitales',
+		cargo:'Programador Wordpress',
+		jefe:'José Manuel Mahecha',
+		fechaIni:'1 Agosto de 2018',
+		fechaFin:'Actualmente',
+		ciudad:'Bogotá',
+		descripcion:'Programación de páginas web Wordpress.'
+	},
+	{
 		empresa:'Wannabe.com.co',
 		cargo:'Director General',
 		jefe:'Independiente',
 		fechaIni:'16 Junio de 2016',
-		fechaFin:'Actualmente',
+		fechaFin:'31 Julio 2018',
 		ciudad:'Bogotá',
 		descripcion:'Actualmente trabajo como programador independiente, freelance, creando mi propio proyecto.'
 	},
