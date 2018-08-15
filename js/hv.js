@@ -1,7 +1,7 @@
 const experiencia = [
 	{
 		empresa:'Seoluciones Digitales',
-		cargo:'Diseño y desarrollo web Wordpress',
+		cargo:'Desarrollo Wordpress',
 		jefe:'José Manuel Mahecha',
 		fechaIni:'1 Agosto de 2018',
 		fechaFin:'Actualmente',
