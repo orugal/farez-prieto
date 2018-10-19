@@ -105,17 +105,29 @@ const testimonios = [
 		nombre:'Mauricio Moranth Zuluaga',
 		cargo:'Gerente General - Oro Verde Hass',
 		text:'La experiencia de trabajar con <strong>Farez Prieto</strong> fue excelente, encontramos un gran aliado que nos ayudó a desarrollar una gran página web para nuestra empresa <strong>Oro Verde Hass</strong> ajustándose a nuestras necesidades. Lo que más me gusto de trabajar con con él fue que acertaron muy bien en la idea que queríamos mostrar en nuestra página, nos tuvo mucha paciencia y estuvo siempre dispuesto a hacer los cambios necesarios para llegar a lo que queríamos.'
+	},
+	{
+		nombre:'Gerente',
+		cargo:'In Secret',
+		text:'Ha sido una puerta que espero jamás cerrar, cuando llegué a él venía algo desanimada porque me habían dicho que lo que yo quería era muy complicado y excesivamente costoso, pero él le dio vuelta a mi idea, me demostró que era muy buena y me ayudó a implementar cosas que yo nunca habría imaginado. Lo mejor de todo es que no me ha dejado sola ni un solo instante y siempre hay una alternativa para hacerme sentir cómoda en este proceso de aprendizaje que conlleva la administración de la misma. Hoy mi página recibe muchos elogios y mi empresa sigue creciendo gracias a las alternativas y facilidad que brinda la web de In Secret. Gracias Farez.'
 	}
 ];
 
 const proyectos = [
 
 	{
-		titulo:'Comunidad Cristiana Bíblica Misionera',
-		lenguaje:'Diseño/Imagen corporativa',
+		titulo:'In Secret',
+		lenguaje:'Diseño/Imagen Corporativa/Pago Online/Cms',
 		filtro:'marca',
 		url:'http://wannabe.com.co/comunidad-cristianabiblica-misionera',
 		img:'images/proyectos/comunidad-cristiana-biblica-misioera.jpg'
+	},
+	{
+		titulo:'Comunidad Cristiana Bíblica Misionera',
+		lenguaje:'Diseño/Imagen corporativa',
+		filtro:'marca',
+		url:'http://www.wannabe.com.co/insecret',
+		img:'images/proyectos/inSecret.jpg'
 	},{
 		titulo:'Esmeralda Quality Fruit',
 		lenguaje:'Php/Mysql/Bootstrap/Fotografía/Vídeo',
