@@ -117,17 +117,17 @@ const proyectos = [
 
 	{
 		titulo:'In Secret',
-		lenguaje:'Diseño/Imagen Corporativa/Pago Online/Cms',
-		filtro:'marca',
-		url:'http://wannabe.com.co/comunidad-cristianabiblica-misionera',
-		img:'images/proyectos/comunidad-cristiana-biblica-misioera.jpg'
+		lenguaje:'Php, Mysql, Bootstrap',
+		filtro:'programacion diseno marca',
+		url:'http://www.wannabe.com.co/insecret',
+		img:'images/proyectos/inSecret.jpg'
 	},
 	{
 		titulo:'Comunidad Cristiana Bíblica Misionera',
 		lenguaje:'Diseño/Imagen corporativa',
-		filtro:'marca',
-		url:'http://www.wannabe.com.co/insecret',
-		img:'images/proyectos/inSecret.jpg'
+		filtro:'programacion diseno marca',
+		url:'http://wannabe.com.co/comunidad-cristianabiblica-misionera',
+		img:'images/proyectos/comunidad-cristiana-biblica-misioera.jpg'
 	},{
 		titulo:'Esmeralda Quality Fruit',
 		lenguaje:'Php/Mysql/Bootstrap/Fotografía/Vídeo',
