@@ -1,5 +1,32 @@
 const experiencia = [
 	{
+		empresa:'Grupo Masmedan',
+		cargo:'Desarrollador Full Stack',
+		jefe:'Armando Garzón',
+		fechaIni:'',
+		fechaFin:'',
+		ciudad:'Panamá',
+		descripcion:'Desarrollo y nuevas implementaciones al software de la empresa. Soporte del mismo.'
+	},
+	{
+		empresa:'Prestomas',
+		cargo:'Desarrollador Full Stack y soporte',
+		jefe:'Gerbert Bendfeldt',
+		fechaIni:'',
+		fechaFin:'',
+		ciudad:'Guatemala',
+		descripcion:'Desarrollo y nuevas implementaciones al software de la empresa. Soporte del mismo.'
+	},
+	{
+		empresa:'Esmeralda Quality Fruit',
+		cargo:'Desarrollador app móvil',
+		jefe:'Mario Soto',
+		fechaIni:'',
+		fechaFin:'',
+		ciudad:'Barranquilla',
+		descripcion:'Desarrollo de app móvil, e interfaz backend de control de productos.'
+	},
+	{
 		empresa:'Seoluciones Digitales',
 		cargo:'Desarrollo Wordpress',
 		jefe:'José Manuel Mahecha',
@@ -128,7 +155,8 @@ const proyectos = [
 		filtro:'programacion diseno marca',
 		url:'http://wannabe.com.co/comunidad-cristianabiblica-misionera',
 		img:'images/proyectos/comunidad-cristiana-biblica-misioera.jpg'
-	},{
+	},
+	{
 		titulo:'Esmeralda Quality Fruit',
 		lenguaje:'Php/Mysql/Bootstrap/Fotografía/Vídeo',
 		filtro:'programacion diseno marca',
@@ -376,12 +404,13 @@ const habilidadesSec = [
 	{
 		titulo:'Illustrator'
 	}
-]
+];
 
 
-const Proyectos = props => {
+const Proyectos = (props) => {
 	return(
-		<div className={'item col-lg-3 col-6 '+props.datos.filtro}>
+		// <div className={'item col-lg-3 col-6 '+props.datos.filtro}>
+		<div className="item col-lg-3 col-6" >
             <div className="item-inner">
                 <figure className="figure">
                     <img className="img-fluid" src={props.datos.img} alt={props.datos.titulo} />
@@ -402,7 +431,7 @@ const PintaProyectos = props => {
 }
 
 
-const HabilidadesPrim = props => {
+const HabilidadesPrim = (props) => {
 	return(
 		 <div className="item col-12 col-md-4">
             <div className="item-inner">
